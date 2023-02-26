@@ -91,11 +91,7 @@
     <version>2.11.0</version>
 </dependency>
 
-    	<dependency>
-    		<groupId>com.skii</groupId>
-    		<artifactId>skii-project</artifactId>
-    		<version>0.0.1-SNAPSHOT</version>
-    	</dependency>
+    	
     </dependencies>
 
 
